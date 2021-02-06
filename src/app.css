@@ -1,0 +1,32 @@
+
+.borderDiv{
+  height: 300px;
+  width: 65%;
+  
+
+}
+.codeArea{
+  border-radius: 20px;
+  border:solid  5px #ffb84d;;
+  width:100%;
+  height: 450px;
+  
+}
+
+.inputArea{
+
+  width:40%;
+
+}
+.txtColor-white{
+  color:white;
+}
+
+.txtColor-orange{
+  color:#ffb84d;
+}
+.input-output{
+  position: relative;
+  left:70%;
+  bottom:200px;
+}
